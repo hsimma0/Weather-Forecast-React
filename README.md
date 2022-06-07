@@ -1,2 +1,2 @@
-# Weather-Forecast-React
+# Weather-Forecast
 Created with CodeSandbox
